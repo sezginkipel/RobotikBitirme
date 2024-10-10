@@ -2,6 +2,5 @@
  Bu repoda robotik dersi bitirme projem var.
 
  ### Yapılacaklar
- [ ] Arduino indir.
- [ ] Robot yap.
+ [x] Arduino indir.
  [ ] Git'e yükle.
